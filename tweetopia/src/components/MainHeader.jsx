@@ -12,7 +12,7 @@ function MainHeader() {
       <div>
         <Link className={classes.button} to="/create-post">
           <FaFeatherAlt size={18} />
-          New Post
+          New Tweet
         </Link>
       </div>
     </header>
